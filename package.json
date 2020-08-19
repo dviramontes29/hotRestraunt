@@ -1,0 +1,25 @@
+{
+  "name": "hotRestraunt",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dviramontes29/hotRestraunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dviramontes29/hotRestraunt/issues"
+  },
+  "homepage": "https://github.com/dviramontes29/hotRestraunt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3"
+  }
+}
